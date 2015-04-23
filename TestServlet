@@ -1,0 +1,110 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.mycompany.programmingproject;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ *
+ * @author User
+ */
+public class testServlet extends HttpServlet {
+
+    /**
+     * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
+     * methods.
+     *
+     * @param request servlet request
+     * @param response servlet response
+     * @throws ServletException if a servlet-specific error occurs
+     * @throws IOException if an I/O error occurs
+     */
+    protected void processRequest(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        response.setContentType("text/html;charset=UTF-8");
+        try (PrintWriter out = response.getWriter()) {
+            /* TODO output your page here. You may use following sample code. */
+            out.println("<!DOCTYPE html>");
+            out.println("<html>");
+            out.println("<head>");
+            out.println("<title>Servlet testServlet</title>");            
+            out.println("</head>");
+            out.println("<body>");
+            out.println("<h1>Servlet testServlet at " + request.getContextPath() + "</h1>");
+            out.println("</body>");
+            out.println("</html>");
+        }
+    }
+    
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        //replace fillers with progress counter and question from createQuestion method.
+        /*<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="style.css">
+    <title>
+        Improve your German
+    </title>
+    <body>   
+        <div id="header">
+            <div id="menu">
+                    <ul>
+                        <li><a href="#welcome">Home</a></li>
+                        <li><a href="#test">Test</a></li>
+                        <li><a href="#grades">Grades</a></li>
+                        <li><a href="#adddrop">Admin</a></li>
+                    </ul>
+            </div>
+        </div>
+        <div id="container">
+            <div id="inner"> 
+                <div id="content">
+                    <h1>Filler for progress bar</h1>
+                    <p id="question">Question goes here</p>
+                    <form method="post" action="#">
+                        <input type="text" id="answer" name="answer" value=""></input>
+                        <div id="buttons">
+                            <input type="submit" id="skip" name="skip" value="SKIP"></input>
+                            <input type="submit" id="submit" name="submit" value="SUBMIT"></input>
+                        </div>   
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>*/
+    }
+    
+    @Override
+    public String getServletInfo() {
+        return "Short description";
+    }// </editor-fold>
+
+    
+    public static void createQuestion() {
+    
+        /* Method to create a randomised question and pass it back*/
+    }
+    
+    public static void score() {
+    
+        /* Method to save the amount of correct answers given by the student*/
+    }
+    
+}
