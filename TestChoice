@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="style.css">
+    <title>
+        Improve your German
+    </title>
+    <body>   
+        <div id="header">
+            <div id="menu">
+                    <ul>
+                        <li><a href="#welcome">Home</a></li>
+                        <li><a href="#test">Test</a></li>
+                        <li><a href="#grades">Grades</a></li>
+                        <li><a href="#adddrop">Admin</a></li>
+                    </ul>
+            </div>
+        </div>
+        <div id="container">
+            <div id="inner"> 
+                <div id="content">
+                    <h1>Choose which quiz you would like to take</h1>
+                    <form method="post" action="#">
+                        <input type="submit" id="ha" name="submit" value="Home and abroad"></input> 
+                        <input type="submit" id="ee" name="submit" value="Education and employment"></input>  
+                        <input type="submit" id="hhdr" name="submit" value="House, home and daily routine"></input>  
+                        <input type="submit" id="tmw" name="submit" value="The modern world"></input>  
+                        <input type="submit" id="safh" name="submit" value="Social activities, fitness and health"></input>  
+                        <input type="submit" id="other" name="submit" value="Non-specific"></input>  
+                        <input type="submit" id="random" name="submit" value="Random"></input>   
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
