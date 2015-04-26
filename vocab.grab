@@ -1,10 +1,0 @@
-¬í sr %org.netbeans.lib.ddl.impl.CreateTable¢”j ™   xr +org.netbeans.lib.ddl.impl.ColumnListCommand2›Œî]2)³ L columnst Ljava/util/Vector;xr )org.netbeans.lib.ddl.impl.AbstractCommandø8¦Œ·q•ª Z executionWithExceptionZ 	newObjectL addpropst Ljava/util/Map;L formatt Ljava/lang/String;L nameq ~ L ownerq ~ L quoteStrq ~ L spect ,Lorg/netbeans/lib/ddl/DatabaseSpecification;xp pt :create table [{object.owner}.]{object.name}
-(
-	{columns}
-)t vocabpppsr java.util.VectorÙ—}[€;¯ I capacityIncrementI elementCount[ elementDatat [Ljava/lang/Object;xp       ur [Ljava.lang.Object;ÎXŸs)l  xp   
-sr %org.netbeans.lib.ddl.impl.TableColumn;¦±5‘b  I decsizeZ nullableI sizeI typeL checkeq ~ L constraintColumnsq ~ L defvalq ~ xr -org.netbeans.lib.ddl.impl.AbstractTableColumn¸Ô§y[k 	Z 	newColumnZ 	newObjectL addpropsq ~ L cnameq ~ L formatq ~ L nameq ~ L otypeq ~ L refcolq ~ L reftabq ~ xppt german_nount {column.name} {column.type}[({column.size}[,{column.decsize}])][ default {default.value}][ {column.notnull}not null][ check ({check.condition})]t german_noun_PKt PRIMARY_KEYpp        d   pppsq ~ pt categoryq ~ t category_PKq ~ pp        È   pppsq ~ pt sub_categoryq ~ q ~ t COLUMNpp       È   pppsq ~ pt genderq ~ q ~ q ~ pp       
-   pppsq ~ pt englishq ~ q ~ q ~ pp       È   pppsq ~ pq ~ 	t "primary key ({constraint.columns})t vocab_PKt PRIMARY_KEY_CONSTRAINTpp            psq ~ 
-       uq ~ 
-   
-sr java.util.Hashtable»%!Jä¸ F 
-loadFactorI 	thresholdxp?@     w      t nameq ~ xsq ~ &?@     w      q ~ (q ~ xppppppppxpppppx
