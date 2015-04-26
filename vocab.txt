@@ -1,0 +1,1120 @@
+(Atom)kraft	The modern world	Environmental issues	f	(nuclear) energy
+(Bürger)krieg	The modern world	Current affairs and social issues	m	(civil) war
+Abendessen	House, home and daily routine	Food and drink	n	 evening meal, supper
+Abfahrt	Home and abroad	Travel, transport and directions	f	 departure
+Abfall	House, home and daily routine	Helping around the house	m	 rubbish
+Abflug	Home and abroad	Travel, transport and directions	m	 departure (by plane)
+Abitur	Education and employment	School life and routine	n	 equivalent to GCE A levels
+Abreise	Home and abroad	Travel, transport and directions	f	 departure
+Abschlussprüfung	Education and employment	School life and routine	f	 final exam
+Abteilung	Social activities, fitness and health	Shopping and money matters	f	 department
+Adresse	House, home and daily routine	Self family and friends	f	 address
+Akrobat	Social activities, fitness and health	Special occasions	m	 acrobat
+Akrobatin	Social activities, fitness and health	Special occasions	f	 acrobat
+Aktivität	Home and abroad	Holidays and tourist information	f	 activity
+Alkohol	Social activities, fitness and health	Accidents and health issues	m	 alcohol
+Ampel	Home and abroad	Life in town and rural	f	 traffic light
+Ananas	House, home and daily routine	Food and drink	f	 pineapple
+Angelrute	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 fishing rod
+Angestellte	Education and employment	Work/careers	f	 employee
+Angestellter	Education and employment	Work/careers	m	 employee
+Angriff	The modern world	Current affairs and social issues	m	 attack
+Anhänger	House, home and daily routine	Helping around the house	m	 pendant (jewellery)
+Ankunft	Home and abroad	Travel, transport and directions	f	 arrival
+Anrufbeantworter	Education and employment	Work/careers	m	 answerphone, voicemail
+Ansichtskarte	Home and abroad	Holidays and tourist information	f	 picture postcard
+Apfel	House, home and daily routine	Food and drink	m	 apple
+Apfelsine	House, home and daily routine	Food and drink	f	 orange
+Apfelwein	House, home and daily routine	Food and drink	m	 cider
+Apotheke	Social activities, fitness and health	Shopping and money matters	f	 chemist’s (dispensing)
+Aprikose	House, home and daily routine	Food and drink	f	 apricot
+Arbeit	Education and employment	Work/careers	f	 work
+Arbeiternehmer	Education and employment	Work/careers	m	 employee, worker
+Arbeiternehmin	Education and employment	Work/careers	f	 employee, worker
+Arbeitgeber	Education and employment	Work/careers	m	 employer
+Arbeitgebin	Education and employment	Work/careers	f	 employer
+Arbeitslosigkeit	Education and employment	Work/careers	f	 unemployment
+Arbeitspraktikum	Education and employment	School life and routine	n	 work experience
+Arm	Social activities, fitness and health	Accidents and health issues	m	 arm
+Armbanduhr	House, home and daily routine	Helping around the house	f	 wristwatch
+Arzt	Education and employment	Work/careers	m	 doctor
+Arzt	Social activities, fitness and health	Accidents and health issues	m	 doctor
+Ärztin	Education and employment	Work/careers	f	 doctor
+Ärztin	Social activities, fitness and health	Accidents and health issues	f	 doctor
+Asthma	Social activities, fitness and health	Accidents and health issues	n	 asthma
+Aufenthalt	Home and abroad	Holidays and tourist information	m	 stay
+Aufschnitt	House, home and daily routine	Food and drink	m	 assorted sliced cold meats
+aufwachsen	Education and employment	Childhood	n	 to grow up
+Aufzug	Home and abroad	Life in town and rural	m	 lift
+Auge	Social activities, fitness and health	Accidents and health issues	n	 eye
+Aula	Education and employment	School life and routine	f	 hall
+Ausbildung	Education and employment	Work/careers	f	apprenticeship
+Ausfahrt	Home and abroad	Travel, transport and directions	f	 exit
+Ausflug	Social activities, fitness and health	Special occasions	m	 outing, excursion
+Ausgang	Home and abroad	Travel, transport and directions	m	 way out, exit
+Ausgang	Social activities, fitness and health	Special occasions	m	 exit, way out
+Auskunft	Home and abroad	Services	f	 information
+Ausland	Home and abroad	Travel, transport and directions	n	 foreign countries, abroad
+ausschimpfen	Education and employment	Childhood	n	 to tell off
+Aussicht	Home and abroad	Holidays and tourist information	f	 view
+Aussprache	Education and employment	School life and routine	f	 pronunciation
+Austausch	Education and employment	School life and routine	m	 exchange
+Ausverkauf	Social activities, fitness and health	Shopping and money matters	m	 clearance sale
+Auswahl	Social activities, fitness and health	Shopping and money matters	f	 selection, choice
+Ausweis	Home and abroad	Travel, transport and directions	m	 identity card
+Auszubildende	Education and employment	Work/careers	f	 trainee
+Auszubildender	Education and employment	Work/careers	m	 trainee
+Auto	Home and abroad	Travel, transport and directions	n	 car
+Autobahn	Home and abroad	Travel, transport and directions	f	 motorway
+Baby	Education and employment	Childhood	n	 baby
+Baby	House, home and daily routine	Self family and friends	n	 baby
+Bäcker	Education and employment	Work/careers	m	 baker
+Bäckerei	Social activities, fitness and health	Shopping and money matters	f	 baker’s shop
+Bäckin	Education and employment	Work/careers	f	 baker
+Bad	House, home and daily routine	Types of home	n	 bath
+Badewanne	House, home and daily routine	Types of home	f	 bath tub
+Badezimmer	House, home and daily routine	Types of home	n	 bathroom
+Bahn	Home and abroad	Travel, transport and directions	f	 train, railway
+Bahnhof	Home and abroad	Travel, transport and directions	m	(railway) station
+Bahnsteig	Home and abroad	Travel, transport and directions	m	 platform
+Balkon	Home and abroad	Holidays and tourist information	m	 balcony
+Ball	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 ball
+Banane	House, home and daily routine	Food and drink	f	 banana
+Band	Social activities, fitness and health	Special occasions	n	 ribbon
+Bank	Social activities, fitness and health	Shopping and money matters	f	 bank
+Bart	House, home and daily routine	Self family and friends	m	 beard
+Bauch	Social activities, fitness and health	Accidents and health issues	m	 tummy
+Bauchschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 tummy ache
+Bauer	Home and abroad	Life in town and rural	m	 farmer
+Bauernhof	Home and abroad	Life in town and rural	m	 farm
+Bauernhof	House, home and daily routine	Types of home	m	 farm
+Bäuin	Home and abroad	Life in town and rural	f	 farmer
+Baum	Home and abroad	Life in town and rural	m	 tree
+Baumwolle	House, home and daily routine	Helping around the house	f	 cotton
+Beamer	Education and employment	School life and routine	m	 data projector
+Beamte	Education and employment	Work/careers	m	 civil servant, official
+Beamtin	Education and employment	Work/careers	f	 civil servant, official
+Bein	Social activities, fitness and health	Accidents and health issues	n	 leg
+Beispiel	Education and employment	School life and routine	n	 example
+Benzin	Home and abroad	Travel, transport and directions	n	 petrol
+Benzin	The modern world	Environmental issues	n	 petrol
+Berg	Home and abroad	Life in town and rural	m	 mountain
+Beruf	Education and employment	Work/careers	m	 occupation, profession
+Berufsberater	Education and employment	School life and routine	m	 careers adviser
+Berufsberatin	Education and employment	School life and routine	f	 careers adviser
+Berufspraktikum	Education and employment	School life and routine	n	 work experience
+Besucher	Social activities, fitness and health	Special occasions	m	 visitor
+Besuchin	Social activities, fitness and health	Special occasions	f	 visitor
+Bett	House, home and daily routine	Types of home	n	 bed
+Bettdecke	House, home and daily routine	Helping around the house	f	 blanket, duvet
+Bettlaken	House, home and daily routine	Helping around the house	n	 sheet
+bevorzugen	Education and employment	Childhood	n	 to prefer
+Bewerbung	Education and employment	Work/careers	f	 application
+Bibliothek	Education and employment	School life and routine	f	 library
+Bibliothek	Home and abroad	Life in town and rural	f	 library
+Bier	House, home and daily routine	Food and drink	n	 beer
+Bild	Education and employment	School life and routine	n	 picture
+Bilderroman	The modern world	The media	m	 graphic novel
+Bildschirm	Education and employment	School life and routine	m	 screen
+Bildung	Education and employment	School life and routine	f	 education
+Biologie	Education and employment	School life and routine	f	 biology
+Birne	House, home and daily routine	Food and drink	f	 pear
+Blatt	Education and employment	School life and routine	n	 sheet (of paper)
+Bleistift	Education and employment	School life and routine	m	 pencil
+Blick	Home and abroad	Holidays and tourist information	m	 view (of)
+Blockflöte	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 recorder
+Blume	Home and abroad	Life in town and rural	f	 flower
+Blume	House, home and daily routine	Helping around the house	f	 flower
+Blumenkohl	House, home and daily routine	Food and drink	m	 cauliflower
+Bluse	Education and employment	School life and routine	f	 blouse
+Blut	Social activities, fitness and health	Accidents and health issues	n	 blood
+Blutwurst	House, home and daily routine	Food and drink	f	 black pudding
+Boden	House, home and daily routine	Types of home	m	 floor
+Bonbon	House, home and daily routine	Food and drink	m	 sweet
+Boot	Home and abroad	Travel, transport and directions	n	 boat
+Bratkartoffeln	House, home and daily routine	Food and drink	pl	 fried potatoes
+Bratpfanne	House, home and daily routine	Types of home	f	 frying pan
+Bratwurst	House, home and daily routine	Food and drink	f	 fried sausage
+Braut	Social activities, fitness and health	Special occasions	f	 bride
+Bräutigam	Social activities, fitness and health	Special occasions	m	 bridegroom
+Brettspiel	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 board game
+Brieffreund	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 penfriend
+Brieffreundin	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 penfriend
+Briefkasten	Home and abroad	Services	m	 letter box
+Briefmarke	Home and abroad	Services	f	 postage stamp
+Briefträger	Education and employment	Work/careers	m	postman
+Briefträger	Home and abroad	Services	m	 postman
+Briefträgin	Education and employment	Work/careers	f	postwoman
+Briefträgin	Home and abroad	Services	f	postwoman
+Brille	House, home and daily routine	Self family and friends	f	 glasses, spectacles
+Broschüre	Home and abroad	Holidays and tourist information	f	 brochure
+Brot	House, home and daily routine	Food and drink	n	 bread
+Brötchen	House, home and daily routine	Food and drink	n	 bread roll
+Brücke	Home and abroad	Life in town and rural	f	 bridge
+Bruder	House, home and daily routine	Self family and friends	m	 brother
+Brunnen	Home and abroad	Life in town and rural	m	 fountain, well
+Brust	Social activities, fitness and health	Accidents and health issues	f	 chest
+Buch	Education and employment	School life and routine	n	 book
+Buchhalter	Education and employment	Work/careers	m	 accountant
+Buchhaltin	Education and employment	Work/careers	f	 accountant
+Buchhandlung	Social activities, fitness and health	Shopping and money matters	f	 bookshop
+Bundesstraße	Home and abroad	Travel, transport and directions	f	 ‘A’ road
+Burg	Home and abroad	Life in town and rural	f	 castle
+Büro	Education and employment	School life and routine	n	 office
+Büro	House, home and daily routine	Types of home	n	 office
+Bus	Home and abroad	Travel, transport and directions	m	 bus
+Busbahnhof	Home and abroad	Travel, transport and directions	m	 bus station
+Busfahrer	Home and abroad	Travel, transport and directions	m	 bus driver
+Busfahrin	Home and abroad	Travel, transport and directions	f	 bus driver
+Butter	House, home and daily routine	Food and drink	f	 butter
+Butterbrot	House, home and daily routine	Food and drink	n	 sandwich
+Call-Center	Home and abroad	Services	n	 call centre
+Camcorder	Home and abroad	Holidays and tourist information	m	 camcorder
+Campingplatz	Home and abroad	Holidays and tourist information	m	 camp site
+Champignon	House, home and daily routine	Food and drink	m	 mushroom
+Chef	Education and employment	Work/careers	m	 boss, manager
+Chefin	Education and employment	Work/careers	f	 boss, manager
+Chemie	Education and employment	School life and routine	f	 chemistry
+Chips	House, home and daily routine	Food and drink	pl	 crisps
+Cola	House, home and daily routine	Food and drink	f	 coke
+Computer	Education and employment	School life and routine	m	 computer
+Cousin	House, home and daily routine	Self family and friends	m	 cousin
+Cousine	House, home and daily routine	Self family and friends	f	 cousin
+Dach	House, home and daily routine	Types of home	n	 roof
+Debatte	The modern world	Current affairs and social issues	f	 debate
+Debitkarte	Social activities, fitness and health	Shopping and money matters	f	 debit card
+Decke	House, home and daily routine	Types of home	f	 ceiling, blanket
+Demonstrant	The modern world	Current affairs and social issues	m	 demonstrator
+Demonstrantin	The modern world	Current affairs and social issues	f	 demonstrator
+Demonstration	The modern world	Current affairs and social issues	f	 demonstration
+Deutsch	Education and employment	School life and routine	n	 German
+Deutsche Post	Home and abroad	Services	f	 German postal service
+die aktuellen Nachrichten	The modern world	Current affairs and social issues	pl	 current affairs, news
+die Olympischen Spiele	The modern world	Current affairs and social issues	pl	 Olympic Games
+Dieb	Home and abroad	Services	m	 thief
+Diebin	Home and abroad	Services	f	 thief
+Diplom	Education and employment	Future plans	n	 diploma
+Direktin	Education and employment	School life and routine	f	headmistress, principal, head teacher
+Direktor	Education and employment	School life and routine	m	 headmaster, principal, head teacher
+Disko	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 disco
+Do-it-yourself	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 DIY
+Dokumentation (doku)	The modern world	The media	f	 documentary
+Dom	Home and abroad	Customs and religion	m	 cathedral
+Donner	Home and abroad	Weather	m	 thunder
+Doppelbett	Home and abroad	Holidays and tourist information	n	 double bed
+Dorf	Home and abroad	Life in town and rural	n	 village
+Dose	House, home and daily routine	Food and drink	f	 tin, can
+Dosenöffner	House, home and daily routine	Types of home	m	 tin opener
+Droge	The modern world	Current affairs and social issues	f	 drug
+Drogenkonsum	The modern world	Current affairs and social issues	m	 drug-taking
+Drogerie	Social activities, fitness and health	Shopping and money matters	f	 chemist’s (non-dispensing)
+Durchfall	Social activities, fitness and health	Accidents and health issues	m	 diarrhoea
+Dürre	The modern world	Environmental issues	f	 drought
+Dusche	Home and abroad	Holidays and tourist information	f	 shower
+Ecke	Home and abroad	Travel, transport and directions	f	 corner
+Ei	House, home and daily routine	Food and drink	n	 egg
+ein Paar	House, home and daily routine	Helping around the house	n	 a couple, a pair
+Einbahnstraße	Home and abroad	Travel, transport and directions	f	 one-way street
+Einfamilienhaus	House, home and daily routine	Types of home	n	 detached house
+Eingang	The modern world	The media	m	 entrance
+Einkäufe	Social activities, fitness and health	Shopping and money matters	pl	 purchases
+Einkaufszentrum	Social activities, fitness and health	Shopping and money matters	n	 shopping centre, mall
+Eintopf	House, home and daily routine	Food and drink	m	 stew
+Eintritt	The modern world	The media	m	 admission, entry, entrance fee
+Eintrittspreis	The modern world	The media	m	 admission/entrance fee
+Einwohner	Home and abroad	Life in town and rural	m	 inhabitant
+Einzelfahrkarte	Home and abroad	Travel, transport and directions	f	 single ticket
+Einzelkind	House, home and daily routine	Self family and friends	n	 only child
+Eis	Home and abroad	Weather	n	 ice
+Eis	House, home and daily routine	Food and drink	n	 ice, ice cream
+Eisbahn	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 skating rink
+Eisenbahn	Home and abroad	Travel, transport and directions	f	 train, railway
+Elektriker	Education and employment	Work/careers	m	 electrician
+Elektrikin	Education and employment	Work/careers	f	 electrician
+Eltern	House, home and daily routine	Self family and friends	pl	 parents
+Empfang	Home and abroad	Holidays and tourist information	m	 reception
+Ende	The modern world	The media	n	 end
+Energie	The modern world	Environmental issues	f	 energy
+Englisch	Education and employment	School life and routine	n	 English
+Entdeckung	The modern world	Current affairs and social issues	f	 discovery
+Ente	Home and abroad	Life in town and rural	f	 duck
+Epidemie, Seuche	The modern world	Current affairs and social issues	f	 epidemic
+Erbsen	House, home and daily routine	Food and drink	pl	 peas
+Erdbeben	The modern world	Environmental issues	n	 earthquake
+Erdbeere	House, home and daily routine	Food and drink	f	 strawberry
+Erde	The modern world	Environmental issues	f	 earth, world
+Erdgeschoss	House, home and daily routine	Types of home	n	 ground floor
+Erdkunde	Education and employment	School life and routine	f	 geography
+Erdöl	The modern world	Environmental issues	n	 crude oil, petroleum
+Erwachsene	Education and employment	Childhood	m/f	 grown-up
+Erwachsene	The modern world	The media	m/f	 adult
+Erwärmung	The modern world	Environmental issues	f	 warming
+erzählen	Education and employment	Childhood	n	 to tell (a story)
+Erziehung	Education and employment	School life and routine	f	 education
+Espresso	House, home and daily routine	Food and drink	m	 espresso
+Essen	House, home and daily routine	Food and drink	n	 food
+Essig	House, home and daily routine	Food and drink	m	 vinegar
+Esszimmer	House, home and daily routine	Types of home	n	 dining room
+Etage	Home and abroad	Life in town and rural	f	 floor, storey
+Eurotunnel	Home and abroad	Travel, transport and directions	m	 Channel Tunnel
+Fabrik	Education and employment	Work/careers	f	 factory
+Fach	Education and employment	School life and routine	n	 subject
+Fähre	Home and abroad	Travel, transport and directions	f	 ferry
+Fahrer	Home and abroad	Travel, transport and directions	m	 driver
+Fahrin	Home and abroad	Travel, transport and directions	f	 driver
+Fahrkarte	Home and abroad	Travel, transport and directions	f	 ticket
+Fahrrad	Home and abroad	Travel, transport and directions	n	 bicycle
+Fahrstuhl	Home and abroad	Life in town and rural	m	 lift
+Fahrt	Home and abroad	Travel, transport and directions	f	 journey
+Familie	House, home and daily routine	Self family and friends	f	 family
+Familienname	House, home and daily routine	Self family and friends	m	 surname
+Fan	The modern world	The media	m	 fan
+Fast-Food-Restaurant	Social activities, fitness and health	Special occasions	n	 fast food restaurant
+Fehler	Education and employment	School life and routine	m	 mistake
+Fehler	Home and abroad	Services	m	 mistake
+Feiertag	Social activities, fitness and health	Special occasions	m	 public holiday
+Fenster	House, home and daily routine	Types of home	n	 window
+Ferien	Home and abroad	Holidays and tourist information	pl	 holidays
+Ferienjob	Education and employment	Work/careers	m	 holiday job
+Fernseher	The modern world	The media	m	 television (set)
+Fernsehsendung	The modern world	The media	f	 television programme
+Fest	Home and abroad	Customs and religion	n	 celebration, festivity
+Feuerwehrfrau	Home and abroad	Services	f	 firefighter
+Feuerwehrmann	Home and abroad	Services	m	 firefighter
+Feuerwerk	Home and abroad	Customs and religion	n	 fireworks
+Fieber	Social activities, fitness and health	Accidents and health issues	n	 temperature, fever
+Finger	Social activities, fitness and health	Accidents and health issues	m	 finger
+Firma	Education and employment	Work/careers	f	 firm, company
+Fisch	House, home and daily routine	Food and drink	m	 fish
+Fischhändler	House, home and daily routine	Food and drink	m	 fishmonger
+Fischhändlin	House, home and daily routine	Food and drink	f	 fishmonger
+Flasche	Social activities, fitness and health	Special occasions	f	 bottle
+Flaschenöffner	House, home and daily routine	Types of home	m	 bottle opener
+Fleisch	House, home and daily routine	Food and drink	n	 meat
+Flöte	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 flute
+Flughafen	Home and abroad	Travel, transport and directions	m	 airport
+Flugzeug	Home and abroad	Travel, transport and directions	n	 plane
+Flur	House, home and daily routine	Types of home	m	 hall, hallway
+Fluss	Home and abroad	Life in town and rural	m	 river
+Formular	Education and employment	Work/careers	n	 form
+Formular	Home and abroad	Holidays and tourist information	n	 form
+Forscher	The modern world	Current affairs and social issues	m	 researcher
+Forschin	The modern world	Current affairs and social issues	f	 researcher
+Fortschritt	Education and employment	School life and routine	m	 progress, improvement
+Fotoapparat	Home and abroad	Holidays and tourist information	m	 camera
+Französisch	Education and employment	School life and routine	n	 French
+Frau	House, home and daily routine	Self family and friends	f	 woman, wife
+Freibad	Home and abroad	Life in town and rural	n	 open-air swimming pool
+Freizeit	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 free time, spare time
+Freizeitpark	Social activities, fitness and health	Special occasions	m	 theme park
+Freund	House, home and daily routine	Self family and friends	m	 friend
+Freundin	House, home and daily routine	Self family and friends	f	 friend
+Freundschaft	House, home and daily routine	Self family and friends	f	 friendship
+Friseur	Education and employment	Work/careers	m	 hairdresser
+Friseur	Home and abroad	Services	m	 hairdresser
+Friseuse	Education and employment	Work/careers	f	 hairdresser
+Friseuse	Home and abroad	Services	f	 hairdresser
+Frühstück	House, home and daily routine	Food and drink	n	 breakfast
+Frühstückscerealien	House, home and daily routine	Food and drink	pl	 breakfast cereals
+Führerschein	Home and abroad	Travel, transport and directions	m	 driving licence
+Fundbüro	Home and abroad	Travel, transport and directions	n	 lost property office
+Fuß	Home and abroad	Life in town and rural	m	 foot
+Fuß	Social activities, fitness and health	Accidents and health issues	m	 foot
+Fußball	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 football
+Fußboden	House, home and daily routine	Types of home	m	 floor
+Fußgänger	Home and abroad	Life in town and rural	m	 pedestrian
+Fußgängerzone	Home and abroad	Life in town and rural	f	 pedestrian precinct
+Gabel	House, home and daily routine	Helping around the house	f	 fork
+Galerie	Home and abroad	Life in town and rural	f	 gallery
+Gameshow	The modern world	The media	f	 game show
+Gardine	House, home and daily routine	Types of home	f	 net curtain
+Garten	House, home and daily routine	Types of home	m	 garden
+Gartenarbeit	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 gardening
+Gas	House, home and daily routine	Types of home	n	 gas
+Gasthaus	Home and abroad	Life in town and rural	n	 inn
+Gebäck	House, home and daily routine	Food and drink	n	 biscuits, pastries
+Gebäude	Education and employment	School life and routine	n	 building
+Gebäude	Home and abroad	Life in town and rural	n	 building
+Gebühr	Home and abroad	Holidays and tourist information	f	 charge, fee
+Geburt	Home and abroad	Customs and religion	f	 birth
+Geburtstag	Home and abroad	Customs and religion	m	 birthday
+Geburtstag	Social activities, fitness and health	Special occasions	m	 birthday
+gefallen	Education and employment	Childhood	n	 to like, to please
+Gefrierschrank	House, home and daily routine	Types of home	m	 freezer
+Gegend	Home and abroad	Life in town and rural	f	 area
+Gehalt	Education and employment	Work/careers	n	 salary
+Geige	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 violin
+Geld	Home and abroad	Services	n	 money
+Gemüse	House, home and daily routine	Food and drink	n	 vegetables
+Gepäck	Home and abroad	Travel, transport and directions	n	 luggage
+Gepäckaufbewahrung	Home and abroad	Travel, transport and directions	f	 left-luggage office
+Gepäckschließfach	Home and abroad	Travel, transport and directions	n	 left-luggage locker
+Geschäft	Home and abroad	Life in town and rural	n	 shop, business
+Geschäftsfrau	Education and employment	Work/careers	f	 businesswoman
+Geschäftsmann	Education and employment	Work/careers	m	 businessman
+Geschenk	Home and abroad	Customs and religion	n	 present, gift
+Geschenk	Social activities, fitness and health	Special occasions	n	 present
+Geschichte	Education and employment	School life and routine	f	 history
+Geschirrspüler	House, home and daily routine	Helping around the house	m	 dishwasher
+Geschirrspülmaschine	House, home and daily routine	Types of home	f	 dishwasher
+Geschmack	House, home and daily routine	Food and drink	m	 flavour
+Geschwindigkeit	Home and abroad	Travel, transport and directions	f	 speed
+Gesellschaft	Education and employment	work/careers	f	company
+Gesicht	House, home and daily routine	Helping around the house	n	 face
+Gesicht	Social activities, fitness and health	Accidents and health issues	n	 face
+Gesundheit	Social activities, fitness and health	Accidents and health issues	f	 health
+Getränk	House, home and daily routine	Food and drink	n	 drink
+Gewichtstraining	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 weight training
+Glas	House, home and daily routine	Types of home	n	 glass
+Glatze	House, home and daily routine	Self family and friends	f	 bald head
+Gleis	Home and abroad	Travel, transport and directions	n	 track, platform
+Glückwunschkarte	Home and abroad	Customs and religion	f	 greetings card
+Goldfisch	House, home and daily routine	Self family and friends	m	 goldfish
+Göttin	Home and abroad	Customs and religion	m	god
+Grad	Education and employment	Work/careers	m	 degree
+Grad	Home and abroad	Weather	m	 degree
+Gras	Home and abroad	Life in town and rural	n	 grass
+Grenze	Home and abroad	Travel, transport and directions	f	 border
+Grenze	The modern world	Current affairs and social issues	f	 border
+Grippe	Social activities, fitness and health	Accidents and health issues	f	 flu
+Größe	Social activities, fitness and health	Shopping and money matters	f	 size
+Großmutter	House, home and daily routine	Self family and friends	f	 grandmother
+Großvater	House, home and daily routine	Self family and friends	m	 grandfather
+Grundschule	Education and employment	School life and routine	f	 primary school
+Grundschullehrer	Education and employment	School life and routine	m	 primary school teacher
+Grundschullehrin	Education and employment	School life and routine	f	 primary school teacher
+Gruselfilm	The modern world	The media	m	 horror film
+Gurke	House, home and daily routine	Food and drink	f	 cucumber
+Gürtel	House, home and daily routine	Helping around the house	m	 belt
+Gymnasium	Education and employment	School life and routine	n	 grammar school
+Haar	House, home and daily routine	Self family and friends	n	 hair
+Haarbürste	House, home and daily routine	Helping around the house	f	 hairbrush
+Haare	House, home and daily routine	Self family and friends	pl	 hair
+Hafen	Home and abroad	Life in town and rural	m	 port, harbour
+Hahn	House, home and daily routine	Types of home	m	 tap
+Hähnchen	House, home and daily routine	Food and drink	n	 chicken
+Halbbruder	House, home and daily routine	Self family and friends	m	 half-brother
+Halbpension	Home and abroad	Holidays and tourist information	f	 half-board
+Halbschwester	House, home and daily routine	Self family and friends	f	 half-sister
+Hallenbad	Home and abroad	Life in town and rural	n	 indoor swimming pool
+Hals	Social activities, fitness and health	Accidents and health issues	m	 throat
+Halsschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 sore throat
+Haltestelle	Home and abroad	Travel, transport and directions	f	 stop
+Hammelfleisch	House, home and daily routine	Food and drink	n	 mutton
+Hand	Social activities, fitness and health	Accidents and health issues	f	 hand
+Handschuh	House, home and daily routine	Helping around the house	m	 glove
+Handtasche	House, home and daily routine	Helping around the house	f	 handbag
+Hauptgericht	House, home and daily routine	Food and drink	n	 main course
+Hauptschule	Education and employment	School life and routine	f	 secondary school
+Haus	House, home and daily routine	Types of home	n	 house
+Hausaufgabe	Education and employment	School life and routine	f	 homework
+Hausfrau	House, home and daily routine	Self family and friends	f	 housewife
+Haustier	House, home and daily routine	Self family and friends	n	 pet
+Heft	Education and employment	School life and routine	n	 exercise book
+Heimfahrt	Home and abroad	Travel, transport and directions	f	 journey home
+Hemd	Education and employment	School life and routine	n	 shirt
+Herd	House, home and daily routine	Types of home	m	 cooker
+Herz	Social activities, fitness and health	Accidents and health issues	n	 heart
+herzlichen Glückwunsch	Social activities, fitness and health	Special occasions	m	 congratulations,   good wishes
+Hilfe	Social activities, fitness and health	Accidents and health issues	f	 help
+Himbeere	House, home and daily routine	Food and drink	f	 raspberry
+Himmel	Home and abroad	Weather	m	 sky
+Hitze	Home and abroad	Weather	f	 heat
+Hobby	Home and abroad	Life in town and rural	n	 hobby, pastime
+Hobby	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 hobby, pastime
+Hochzeit	Social activities, fitness and health	Special occasions	f	 wedding
+Hof	Education and employment	School life and routine	m	 playground
+Holz	The modern world	Environmental issues	m	 wood, timber
+Hose	Education and employment	School life and routine	f	 trousers
+Hose	House, home and daily routine	Helping around the house	f	 pair of trousers
+Hügel	Home and abroad	Life in town and rural	m	 hill
+Hühnchen	Home and abroad	Life in town and rural	n	 chicken, hen
+Hund	House, home and daily routine	Self family and friends	m	 dog
+Hut	Social activities, fitness and health	Shopping and money matters	m	 hat
+Imbiss	House, home and daily routine	Food and drink	m	 snack
+Imbissstube	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 snack bar
+Informatik	Education and employment	School life and routine	f	 computer science
+Informatiker	Education and employment	Work/careers	m	 computer specialist, IT expert
+Informatikin	Education and employment	Work/careers	f	 computer specialist, IT expert
+Informationen	Home and abroad	Services	pl	 information
+Informationsbüro	Home and abroad	Services	n	 information
+Ingeniein	Education and employment	Work/careers	f	 engineer
+Ingenieur	Education and employment	Work/careers	m	 engineer
+Inlineskaten	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 roller blading
+interaktives Whiteboard	Education and employment	School life and routine	n	 interactive whiteboard
+Interview	Education and employment	Future plans	n	 interview
+Jacke	House, home and daily routine	Helping around the house	f	 jacket
+Jahreszeit	Home and abroad	Weather	f	 season
+Jeans	House, home and daily routine	Helping around the house	pl	 jeans
+Joghurt	House, home and daily routine	Food and drink	m	 yoghurt
+Journalist	Education and employment	Work/careers	m	 journalist
+Journalistin	Education and employment	Work/careers	f	 journalist
+Jugendherberge	Home and abroad	Holidays and tourist information	f	 youth hostel
+Jugendklub	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 youth club
+Jugendliche	Education and employment	Childhood	m/f	 young person
+Junge	House, home and daily routine	Self family and friends	m	 boy
+Jura	Education and employment	Future plans	pl	 law (as a subject)
+Kaffee	House, home and daily routine	Food and drink	m	 coffee
+Kaffeemaschine	House, home and daily routine	Helping around the house	f	 coffee maker
+Kalbfleisch	House, home and daily routine	Food and drink	n	 veal
+Kälte	Home and abroad	Weather	f	 cold
+Kamera	Home and abroad	Holidays and tourist information	f	 camera
+Kaninchen	House, home and daily routine	Self family and friends	n	 rabbit
+Karneval	Home and abroad	Customs and religion	m	 carnival
+Karotte	House, home and daily routine	Food and drink	f	 carrot
+Karriere	Education and employment	Future plans	f	 career
+Karte	The modern world	The media	f	 ticket
+Kartoffel	House, home and daily routine	Food and drink	f	 potato
+Käse	House, home and daily routine	Food and drink	m	 cheese
+Käsebrot	House, home and daily routine	Food and drink	n	 cheese sandwich
+Kasse	Education and employment	Work/careers	f	 till, cash desk, checkout
+Kasse	Social activities, fitness and health	Shopping and money matters	f	 till, cash desk, checkout
+Kassierer/in	Education and employment	Work/careers	m	 cashier
+Kassierin	Education and employment	Work/careers	f	 cashier
+Katastrophe	The modern world	Environmental issues	f	 catastrophe
+Kathedrale	Home and abroad	Customs and religion	f	 cathedral
+Katze	Home and abroad	Life in town and rural	f	 cat
+Katze	House, home and daily routine	Self family and friends	f	 cat
+Kauffrau	Education and employment	Work/careers	f	 businesswoman
+Kaufhaus	Social activities, fitness and health	Shopping and money matters	n	 department store
+Kaufmann	Education and employment	Work/careers	m	 businessman
+Kegelbahn	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 bowling alley
+Keller	House, home and daily routine	Types of home	m	 cellar
+Kellner	Education and employment	Work/careers	m	 waiter
+Kellnin	Education and employment	Work/careers	f	waitress
+Kerze	Home and abroad	Customs and religion	f	 candle
+Kind	Education and employment	Childhood	n	 child
+Kind	House, home and daily routine	Self family and friends	n	 child
+Kindergarten	Education and employment	School life and routine	m	 nursery school
+Kindheit	Education and employment	Childhood	f	 childhood
+Kirche	Home and abroad	Customs and religion	f	 church
+Kirsche	House, home and daily routine	Food and drink	f	 cherry
+Klassenarbeit	Education and employment	School life and routine	f	 class test
+Klassenzimmer	Education and employment	School life and routine	n	 classroom
+Klavier	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 piano
+Kleid	Education and employment	School life and routine	n	 dress
+Kleid	Social activities, fitness and health	Special occasions	n	 dress
+Kleidung	Social activities, fitness and health	Accidents and health issues	f	 clothing, clothes
+Kleidungsstück	House, home and daily routine	Helping around the house	n	 garment, article of clothing
+Kleingeld	Social activities, fitness and health	Shopping and money matters	n	small or loose change
+Klempner	Education and employment	Work/careers	m	 plumber
+Klempner	Home and abroad	Services	m	 plumber
+Klempnin	Education and employment	Work/careers	f	 plumber
+Klempnin	Home and abroad	Services	f	 plumber
+Klima	Home and abroad	Weather	n	 climate
+Klinik	Social activities, fitness and health	Accidents and health issues	f	 clinic
+Klo	House, home and daily routine	Types of home	n	 loo
+Knie	Social activities, fitness and health	Accidents and health issues	n	 knee
+Koch	Education and employment	Work/careers	m	 cook, chef
+Köchin	Education and employment	Work/careers	f	 cook, chef
+Kochtopf	House, home and daily routine	Helping around the house	m	 saucepan
+Koffer	Home and abroad	Holidays and tourist information	m	 suitcase
+Kohl	House, home and daily routine	Food and drink	m	 cabbage
+Kohle	The modern world	Environmental issues	f	 coal
+kohlensäurehaltiges Getränk	House, home and daily routine	Food and drink	n	 fizzy drink
+Komödie	The modern world	The media	f	 comedy
+Konditorei	House, home and daily routine	Food and drink	f	 cake shop
+König	The modern world	Current affairs and social issues	m	 king
+Königin	The modern world	Current affairs and social issues	f	 queen
+Kopf	Social activities, fitness and health	Accidents and health issues	m	 head
+Kopfhörer	Education and employment	School life and routine	m	headphones
+Kopfkissen	House, home and daily routine	Helping around the house	n	 pillow
+Kopfschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 headache
+Körper	Social activities, fitness and health	Accidents and health issues	m	 body
+Kotelett	House, home and daily routine	Food and drink	n	 chop, cutlet
+Krabbe	House, home and daily routine	Food and drink	f	 shrimp, prawn
+Krankenhaus	Social activities, fitness and health	Accidents and health issues	n	 hospital
+Krankenpfleger	Social activities, fitness and health	Accidents and health issues	m	(male) nurse
+Krankenschwester	Social activities, fitness and health	Accidents and health issues	f	(female) nurse
+Krankenwagen	Social activities, fitness and health	Accidents and health issues	m	 ambulance
+Krankheit	Social activities, fitness and health	Accidents and health issues	f	 illness
+Krawatte	Education and employment	School life and routine	f	 tie
+Kreditkarte	Social activities, fitness and health	Shopping and money matters	f	 credit card
+Kreuzung	Home and abroad	Life in town and rural	f	 crossroads
+Krise	The modern world	Current affairs and social issues	f	 crisis
+Küche	House, home and daily routine	Types of home	f	 kitchen
+Kuchen	House, home and daily routine	Food and drink	m	 cake
+Kuchen	Social activities, fitness and health	Special occasions	m	 cake
+Kugelschreiber	Education and employment	School life and routine	m	 ballpoint pen
+Kuh	Home and abroad	Life in town and rural	f	 cow
+Kühlschrank	House, home and daily routine	Types of home	m	 fridge
+Kuli	Education and employment	School life and routine	m	 ballpoint pen
+Kunde	Education and employment	Work/careers	m	 customer
+Kunde	Social activities, fitness and health	Shopping and money matters	m	 customer, client
+Kundin	Education and employment	Work/careers	f	 customer
+Kundin	Social activities, fitness and health	Shopping and money matters	f	 customer, client
+Kunst	Education and employment	School life and routine	f	 art
+Labor	Education and employment	School life and routine	n	 laboratory
+Lachs	House, home and daily routine	Food and drink	m	 salmon
+Laden	Home and abroad	Life in town and rural	m	 shop
+Laden	Social activities, fitness and health	Shopping and money matters	m	 small shop
+Lagerfeuer	Home and abroad	Customs and religion	n	 bonfire
+Lammfleisch	House, home and daily routine	Food and drink	n	 lamb
+Land	Home and abroad	Life in town and rural	n	 country, countryside, land
+Landschaft	Home and abroad	Life in town and rural	f	 landscape, scenery, countryside
+Lebensmittel	House, home and daily routine	Food and drink	pl	 food, groceries
+Leberwurst	House, home and daily routine	Food and drink	f	 liver sausage
+Leder	Social activities, fitness and health	Shopping and money matters	n	 leather
+Lehre	Education and employment	Work/careers	f	 apprenticeship
+Lehrer	Education and employment	School life and routine	m	 teacher
+Lehrerzimmer	Education and employment	School life and routine	n	 staff room
+Lehrin	Education and employment	School life and routine	f	 teacher
+Lehrling	Education and employment	Work/careers	m	 apprentice
+Leichtathletik	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 athletics
+Lesen	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 reading
+Licht	Home and abroad	Customs and religion	n	 light
+Licht	House, home and daily routine	Types of home	n	 light
+Licht	Social activities, fitness and health	Special occasions	n	 light
+Lieblingsfach	Education and employment	School life and routine	n	 favourite subject
+Lied	The modern world	The media	n	 song
+Lift	Home and abroad	Life in town and rural	m	 lift
+Limonade	House, home and daily routine	Food and drink	f	 lemonade
+Lineal	Education and employment	School life and routine	n	 ruler
+Lippenstift	House, home and daily routine	Helping around the house	m	 lipstick
+Löffel	House, home and daily routine	Helping around the house	m	 spoon
+Lohn	Education and employment	Work/careers	m	 wage(s), pay
+Luftsteward	Education and employment	Work/careers	m	 air steward
+Luftstewardess	Education and employment	Work/careers	f	air stewardess
+Mädchen	House, home and daily routine	Self family and friends	n	 girl
+Magen	Social activities, fitness and health	Accidents and health issues	m	 stomach
+Magenschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 stomach ache
+Mahlzeit	House, home and daily routine	Food and drink	f	 meal
+Mann	House, home and daily routine	Self family and friends	m	 man, husband
+Mannschaft	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 team
+Mantel	Home and abroad	Weather	m	 coat
+Mappe	Education and employment	School life and routine	f	 briefcase, folder, file
+Markt	Social activities, fitness and health	Shopping and money matters	m	 market
+Marktplatz	Home and abroad	Life in town and rural	m	 market square
+Marmelade	House, home and daily routine	Food and drink	f	 jam
+Mathe	Education and employment	School life and routine	f	 maths
+Mauer	House, home and daily routine	Types of home	f	 wall (outside, external)
+Maurer	Education and employment	Work/careers	m	 bricklayer, mason, builder
+Maurin	Education and employment	Work/careers	f	 bricklayer, mason, builder
+Maus	House, home and daily routine	Self family and friends	f	 mouse
+Mechaniker	Education and employment	Work/careers	m	 mechanic
+Mechanikin	Education and employment	Work/careers	f	 mechanic
+Medaille	The modern world	Current affairs and social issues	f	 medal
+Medikament	Social activities, fitness and health	Accidents and health issues	n	 medicine
+Meeresfrüchte	House, home and daily routine	Food and drink	pl	 seafood
+Meerschweinchen	House, home and daily routine	Self family and friends	n	 guinea pig
+Mehl	House, home and daily routine	Food and drink	n	 flour
+Menschenrechte	The modern world	Current affairs and social issues	pl	 human rights
+Messer	House, home and daily routine	Types of home	n	 knife
+Metzgerei	House, home and daily routine	Food and drink	f	 butcher’s
+Metzgerei	Social activities, fitness and health	Shopping and money matters	f	 butcher’s shop
+Miete	Home and abroad	Holidays and tourist information	f	 rent
+Mikrowelle	House, home and daily routine	Types of home	f	 microwave
+Mikrowellenherd	House, home and daily routine	Types of home	m	 microwave oven
+Milch	House, home and daily routine	Food and drink	f	 milk
+Mineralwasser	House, home and daily routine	Food and drink	n	 mineral water
+Mittagessen	Education and employment	School life and routine	n	 lunch, mid-day meal
+Mittagessen	House, home and daily routine	Food and drink	n	 lunch
+Mittagspause	Education and employment	School life and routine	f	 lunch break
+Mittlere Reife	Education and employment	School life and routine	f	 equivalent to GCSEs
+Möbel	House, home and daily routine	Types of home	pl	 furniture
+Möbelstück	House, home and daily routine	Types of home	n	 piece of furniture
+Mode	The modern world	The media	f	 fashion
+Model	Education and employment	Work/careers	n	 model
+Moderatin	Education and employment	Work/careers	f	 presenter
+Moderatin	The modern world	The media	f	 presenter
+Moderator	Education and employment	Work/careers	m	 presenter
+Moderator/in	The modern world	The media	m	 presenter
+Moschee	Home and abroad	Customs and religion	f	 mosque
+Mücke	Home and abroad	Life in town and rural	f	 midge, mosquito, gnat
+Müll	House, home and daily routine	Helping around the house	m	 rubbish, refuse
+Mülleimer	House, home and daily routine	Helping around the house	m	 dustbin
+Mund	House, home and daily routine	Self family and friends	m	 mouth
+Mund	Social activities, fitness and health	Accidents and health issues	m	 mouth
+Münze	Social activities, fitness and health	Shopping and money matters	f	 coin
+Muscheln	House, home and daily routine	Food and drink	pl	 mussels
+Museum	Home and abroad	Life in town and rural	n	 museum
+Museum	Social activities, fitness and health	Special occasions	n	 museum
+Musik	Education and employment	School life and routine	f	 music
+Musiksaal	Education and employment	School life and routine	m	 music room
+Mutter	House, home and daily routine	Self family and friends	f	 mother
+Muttertag/Vatertag	Home and abroad	Customs and religion	m	 Mother’s Day, Father’s Day
+Mutti	House, home and daily routine	Self family and friends	f	 mum
+Nachbarin	House, home and daily routine	Self family and friends	m	 neighbour
+Nachname	Home and abroad	Services	m	 family name
+Nachname	House, home and daily routine	Self family and friends	m	 surname
+Nachrichten	The modern world	The media	pl	 news
+Nachrichtensendung	The modern world	The media	f	 news broadcast
+Nachrichtensprecher/in	The modern world	The media	m	 newsreader
+Nachrichtensprechin	The modern world	The media	f	 newsreader
+Nachspeise	House, home and daily routine	Food and drink	f	 dessert
+Nachtklub	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 nightclub
+Name	House, home and daily routine	Self family and friends	m	 name
+Nase	Social activities, fitness and health	Accidents and health issues	f	 nose
+Naturwissenschaften	Education and employment	School life and routine	pl	 sciences, science subjects
+Nebel	Home and abroad	Weather	m	 fog
+Neffe	House, home and daily routine	Self family and friends	m	 nephew
+Neujahr	Home and abroad	Customs and religion	n	 New Year, New Year’s Day
+Neujahrstag	Home and abroad	Customs and religion	m	 new year’s day
+Nichte	House, home and daily routine	Self family and friends	f	 niece
+Nobelpreis	The modern world	Current affairs and social issues	m	 Nobel Prize
+Nord	Home and abroad	Weather	m	 north
+Notanruf	Home and abroad	Services	m	 emergency call
+Note	Education and employment	School life and routine	f	 mark, grade
+Nudeln	House, home and daily routine	Food and drink	pl	 pasta, noodles
+Oberstufe	Education and employment	School life and routine	f	 last/final year of school/Sixth For
+Ohr	Social activities, fitness and health	Accidents and health issues	n	 ear
+Ohrenschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 earache
+Ohrringe	House, home and daily routine	Helping around the house	pl	 earrings
+Öl	House, home and daily routine	Food and drink	n	 oil
+Öl	The modern world	Environmental issues	n	 oil
+Ölteppich	The modern world	Environmental issues	m	 oil slick
+Oma	House, home and daily routine	Self family and friends	f	 grandma
+Omelett	House, home and daily routine	Food and drink	n	 omelette
+Onkel	House, home and daily routine	Self family and friends	m	 uncle
+Opa	House, home and daily routine	Self family and friends	m	 granddad
+Opfer	The modern world	Environmental issues	n	 victim
+Orange	House, home and daily routine	Food and drink	f	 orange
+Ort	Home and abroad	Life in town and rural	m	 place
+Ost	Home and abroad	Weather	m	 east
+Ostern	Home and abroad	Customs and religion	n	 Easter
+Overhead-Projektor	Education and employment	School life and routine	m	 overhead projector
+Palast	Home and abroad	Life in town and rural	m	 palace
+Papier	Education and employment	School life and routine	n	 paper
+Parfum, Parfüm	Social activities, fitness and health	Special occasions	n	 perfume
+Park	Home and abroad	Life in town and rural	m	 park
+Parkplatz	Home and abroad	Life in town and rural	m	 car park
+Party, Fete	Social activities, fitness and health	Special occasions	f	 party
+Pass	Home and abroad	Holidays and tourist information	m	 passport
+Pastete	House, home and daily routine	Food and drink	f	 paté
+Pause	Education and employment	School life and routine	f	 break, playtime, recreation
+Pension	Home and abroad	Holidays and tourist information	f	 guest house
+Person	Home and abroad	Holidays and tourist information	f	 person
+Pfannkuchen	House, home and daily routine	Food and drink	m	 pancake
+Pfeffer	House, home and daily routine	Food and drink	m	 pepper
+Pferd	Home and abroad	Life in town and rural	n	 horse
+Pfirsich	House, home and daily routine	Food and drink	m	 peach
+Pflanze	House, home and daily routine	Types of home	f	 plant
+Pflaster	Social activities, fitness and health	Accidents and health issues	n	 plaster
+Pflaume	House, home and daily routine	Food and drink	f	 plum
+Pflichtfach	Education and employment	School life and routine	n	 compulsory subject
+Physik	Education and employment	School life and routine	f	 physics
+Picknick	Social activities, fitness and health	Special occasions	n	 picnic
+Pille	Social activities, fitness and health	Accidents and health issues	f	 pill
+Pilot	Education and employment	Work/careers	m	 pilot
+Pilotin	Education and employment	Work/careers	f	 pilot
+Plakat	Home and abroad	Life in town and rural	n	 poster
+Plan	Education and employment	School life and routine	m	 plan
+Plastik(tüte)	Social activities, fitness and health	Shopping and money matters	f	plastic bag
+Platz	Home and abroad	Life in town and rural	m	 square, space
+Platz	The modern world	The media	m	 seat
+Politik	The modern world	Current affairs and social issues	f	 politics, policy
+Polizei	Home and abroad	Life in town and rural	f	 police
+Polizeiwache	Home and abroad	Life in town and rural	f	 police station
+Polizist	Education and employment	Work/careers	m	 policeman
+Polizist	Home and abroad	Services	m	 police officer
+Polizistin	Education and employment	Work/careers	f	policewoman
+Polizistin	Home and abroad	Services	f	 police officer
+Pommes (frites)	House, home and daily routine	Food and drink	pl	 chips, fries
+Portemonnaie	Social activities, fitness and health	Shopping and money matters	n	 purse, wallet
+Postamt	Home and abroad	Services	n	 post office
+Poster	Home and abroad	Life in town and rural	n	 poster
+Postkarte	Home and abroad	Holidays and tourist information	f	 postcard
+Preis	The modern world	Current affairs and social issues	m	 prize
+Preisliste	The modern world	The media	f	 list of prices
+Premierminister	The modern world	Current affairs and social issues	m	 prime minister
+Premierministin	The modern world	Current affairs and social issues	f	 prime minister
+Programm	The modern world	The media	n	 programme, channel
+Prominente	The modern world	The media	f	 celebrity
+Prominenter	The modern world	The media	m	 celebrity
+Prüfung	Education and employment	School life and routine	f	 exam
+Psychologie	Education and employment	School life and routine	f	 psychology
+Pulli	House, home and daily routine	Helping around the house	m	 sweater, pullover
+Pullover	House, home and daily routine	Helping around the house	m	 sweater, pullover
+Puppe	Education and employment	Childhood	f	 doll
+Pute	House, home and daily routine	Food and drink	f	 turkey
+Qualifikation	Education and employment	School life and routine	f	 qualification
+Radiergummi	Education and employment	School life and routine	n	 rubber
+Radio	The modern world	The media	n	 radio
+Rakete	The modern world	Current affairs and social issues	f	 rocket
+Rasen	House, home and daily routine	Types of home	m	 lawn
+Rathaus	Home and abroad	Life in town and rural	n	 town hall
+Raucher	Social activities, fitness and health	Accidents and health issues	m	 smoker
+Rauchin	Social activities, fitness and health	Accidents and health issues	f	 smoker
+Reality-TV	The modern world	The media	n	 reality television
+Realschule	Education and employment	School life and routine	f	 equivalent to secondary school
+Rechner	Education and employment	School life and routine	m	 calculator
+Rechnung	Social activities, fitness and health	Shopping and money matters	f	 bill
+Recycling	The modern world	Environmental issues	n	 recycling
+Regal	House, home and daily routine	Helping around the house	n	 shelf, shelving
+Regel	Education and employment	School life and routine	f	 rule, regulation
+Regen	Home and abroad	Weather	m	 rain
+Regenmantel	Home and abroad	Weather	m	 raincoat
+Regenschauer	Home and abroad	Weather	m	 shower
+Regenschirm	Home and abroad	Weather	m	 umbrella
+Regenwald	The modern world	Environmental issues	m	 rainforest
+Region	Home and abroad	Life in town and rural	f	 region
+Reis	House, home and daily routine	Food and drink	m	 rice
+Reise	Home and abroad	Travel, transport and directions	f	 journey
+Reiseleiter	Home and abroad	Holidays and tourist information	m	 tourist guide
+Reiseleitin	Home and abroad	Holidays and tourist information	f	 tourist guide
+Reisende	Home and abroad	Holidays and tourist information	m/f	 traveller
+Reisescheck	Social activities, fitness and health	Shopping and money matters	m	 traveller’s cheque
+Religion	Education and employment	School life and routine	f	 religious education, religion
+Rettich	House, home and daily routine	Food and drink	m	 radish
+Rezept	House, home and daily routine	Food and drink	n	 recipe
+Rezept	Social activities, fitness and health	Accidents and health issues	n	 prescription
+Rindfleisch	House, home and daily routine	Food and drink	n	 beef
+Ring	House, home and daily routine	Helping around the house	m	 ring (jewellery)
+Ring	Social activities, fitness and health	Special occasions	m	 ring
+Rock	Education and employment	School life and routine	m	 skirt
+Roman	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 novel
+Rosenkohl	House, home and daily routine	Food and drink	m	 sprouts
+Rotkohl	House, home and daily routine	Food and drink	m	 red cabbage
+Rotwein	House, home and daily routine	Food and drink	m	 red wine
+Rückenschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 backache
+Rückfahrkarte	Home and abroad	Travel, transport and directions	f	 return ticket
+Rucksack	Education and employment	School life and routine	m	 backpack
+Saft	House, home and daily routine	Food and drink	m	 juice
+Sahne	House, home and daily routine	Food and drink	f	 cream
+Sakko	House, home and daily routine	Helping around the house	n	 jacket
+Salat	House, home and daily routine	Food and drink	m	 lettuce, salad
+Salz	House, home and daily routine	Food and drink	n	 salt
+Sand	Home and abroad	Holidays and tourist information	m	 sand
+Sandburg	Home and abroad	Holidays and tourist information	f	 sand castle
+Sänger	The modern world	The media	m	 singer
+Sängin	The modern world	The media	f	 singer
+Sauerbraten	House, home and daily routine	Food and drink	m	 marinated beef pot roast
+Sauerkraut	House, home and daily routine	Food and drink	n	 pickled cabbage
+Sauerregen	The modern world	Environmental issues	m	 acid rain
+Schach	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 chess
+Schaf	Home and abroad	Life in town and rural	n	 sheep
+Schalter	Home and abroad	Travel, transport and directions	m	 ticket counter, ticket office
+Schaufenster	Social activities, fitness and health	Shopping and money matters	n	 shop window
+Schaufensterbummel	Social activities, fitness and health	Shopping and money matters	m	 window shopping
+Schauspiel	The modern world	The media	n	 play
+Schauspieler	Education and employment	Work/careers	m	 actor/actress
+Schauspieler	The modern world	The media	m	 actor
+Schauspielin	Education and employment	Work/careers	f	 actor/actress
+Schauspielin	The modern world	The media	f	actress
+Scheck	Social activities, fitness and health	Shopping and money matters	m	 cheque
+Scheibe	House, home and daily routine	Food and drink	f	 slice
+Schiff	Home and abroad	Travel, transport and directions	n	 ship
+Schildkröte	House, home and daily routine	Self family and friends	f	 tortoise
+Schinken	House, home and daily routine	Food and drink	m	 ham
+Schinkenbrot	House, home and daily routine	Food and drink	n	 ham sandwich
+Schlafanzug	House, home and daily routine	Helping around the house	m	 pyjamas
+Schlafsack	Home and abroad	Holidays and tourist information	m	 sleeping bag
+Schlafzimmer	House, home and daily routine	Types of home	n	 bedroom
+Schläger	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 racket
+Schlagzeug	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 drums
+Schlips	Education and employment	School life and routine	m	 tie
+Schloss	Home and abroad	Life in town and rural	n	 castle
+Schlüssel	House, home and daily routine	Types of home	m	 key
+Schlüsselbund	House, home and daily routine	Helping around the house	m	 key ring
+Schlussverkauf	Social activities, fitness and health	Shopping and money matters	m	 end of season sale
+Schminke	House, home and daily routine	Helping around the house	f	 makeup
+Schmuckgeschäft	Social activities, fitness and health	Shopping and money matters	n	 jewellery shop
+Schnee	Home and abroad	Weather	m	 snow
+Schnitzel	House, home and daily routine	Food and drink	n	 escalope
+Schokolade	House, home and daily routine	Food and drink	f	 chocolate
+Schrank	House, home and daily routine	Helping around the house	m	 cupboard
+Schreibwarengeschäft	Social activities, fitness and health	Shopping and money matters	n	 stationery shop
+Schublade	House, home and daily routine	Helping around the house	f	 drawer
+Schuh	Education and employment	School life and routine	m	 shoe
+Schulanfang	Education and employment	School life and routine	m	 beginning of term
+Schule	Education and employment	School life and routine	f	 school
+Schüler	Education and employment	School life and routine	m	 pupil
+Schulhof	Education and employment	School life and routine	m	 playground
+Schülin	Education and employment	School life and routine	f	 pupil
+Schultag	Education and employment	School life and routine	m	 school day
+Schüssel	House, home and daily routine	Helping around the house	f	 bowl
+Schwein	Home and abroad	Life in town and rural	n	 pig
+Schweinebraten	House, home and daily routine	Food and drink	m	 joint of pork, roast pork
+Schweinefilet	House, home and daily routine	Food and drink	n	 pork fillet
+Schweinefleisch	House, home and daily routine	Food and drink	n	 pork
+Schwester	House, home and daily routine	Self family and friends	f	 sister
+Schwimmbad	Home and abroad	Life in town and rural	n	 swimming pool
+See	Home and abroad	Life in town and rural	m	 lake
+Sehenswürdigkeit	Home and abroad	Life in town and rural	f	 sight, place of interest
+Seife	House, home and daily routine	Helping around the house	f	 soap
+Seifenoper	The modern world	The media	f	 soap opera
+Sekt	Home and abroad	Customs and religion	m	 champagne
+Selbstbedienung	Social activities, fitness and health	Shopping and money matters	f	 self-service
+Semester	Education and employment	School life and routine	n	 semester
+Sender	The modern world	The media	m	 broadcaster, station
+Sendung	The modern world	The media	f	 programme, broadcast
+Senf	House, home and daily routine	Food and drink	m	 mustard
+Serie	The modern world	The media	f	 series
+Serviette	Social activities, fitness and health	Special occasions	f	 serviette
+Sessel	House, home and daily routine	Types of home	m	 armchair, easy chair
+Shampoo	House, home and daily routine	Helping around the house	n	 shampoo
+Shorts	Education and employment	School life and routine	pl	 shorts
+Sicherheit	Home and abroad	Travel, transport and directions	f	 safety
+Silvester	Home and abroad	Customs and religion	m	 New Year’s Eve
+Sitcom	The modern world	The media	f	 sitcom
+Sitz	The modern world	The media	m	 seat
+Socke	Education and employment	School life and routine	f	 sock
+Sofa	House, home and daily routine	Types of home	n	 sofa, settee
+Sohn	House, home and daily routine	Self family and friends	m	 son
+Soldat	The modern world	Current affairs and social issues	m	 soldier
+Soldatin	The modern world	Current affairs and social issues	f	 soldier
+Sommer	Home and abroad	Holidays and tourist information	m	 summer
+Sommerferien	Education and employment	School life and routine	pl	 summer holidays
+Sonne	Home and abroad	Weather	f	 sun
+Sonnenbrand	Social activities, fitness and health	Accidents and health issues	m	 sunburn
+Sonnenbrille	Home and abroad	Holidays and tourist information	f	 sunglasses
+Sonnencreme	Home and abroad	Holidays and tourist information	f	 sun cream
+Souvenirladen	Social activities, fitness and health	Shopping and money matters	m	 souvenir, gift shop
+Sozialkunde	Education and employment	School life and routine	f	 social studies
+Spanisch	Education and employment	School life and routine	n	 Spanish
+Sparkasse	Social activities, fitness and health	Shopping and money matters	f	 savings bank
+Speck	House, home and daily routine	Food and drink	m	 bacon
+Speise	House, home and daily routine	Food and drink	f	 meal, food
+Speisesaal	Education and employment	School life and routine	m	 dining room
+Spezialeffekte	The modern world	The media	pl	 special effects
+Spezialität des Hauses	Social activities, fitness and health	Special occasions	f	 speciality of the house
+Spiegelei	House, home and daily routine	Food and drink	n	 fried egg
+Spiel	Education and employment	Childhood	n	 game
+Spiel	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 game, match
+Spieler	Social activities, fitness and health	Hobbies, interests, sports and exercise	m	 player
+Spielin	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 player
+Spielzeug	Education and employment	Childhood	n	 toy
+Spielzeug	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 toy
+Spion/in	The modern world	Current affairs and social issues	m	 spy
+Spionin	The modern world	Current affairs and social issues	f	 spy
+Spitzer	Education and employment	School life and routine	m	 sharpener
+Sport	Education and employment	School life and routine	m	 sport
+Sportbericht	The modern world	The media	m	sports report
+Sportler	Education and employment	Work/careers	m	 sportsman
+Sportlin	Education and employment	Work/careers	f	sportswoman
+Sportzentrum	Home and abroad	Life in town and rural	n	 sports centre
+Sportzentrum	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 sports centre
+Sprache	Education and employment	School life and routine	f	 language
+Sprechstunde	Social activities, fitness and health	Accidents and health issues	f	 surgery
+Spritze	Social activities, fitness and health	Accidents and health issues	f	 injection
+Sprudel	House, home and daily routine	Food and drink	m	 sparkling mineral water
+Spülbecken	House, home and daily routine	Helping around the house	n	 kitchen sink
+Spülmaschine	House, home and daily routine	Types of home	f	 dishwasher
+Staatsangehörigkeit	Education and employment	School life and routine	f	nationality
+Stadion	Home and abroad	Life in town and rural	n	 stadium
+Stadion	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 stadium
+Stadt	Home and abroad	Life in town and rural	f	 town
+Stadtmitte	Home and abroad	Life in town and rural	f	 town centre
+Stadtplan	Home and abroad	Holidays and tourist information	m	 street map
+Stadtteil	Home and abroad	Life in town and rural	m	 part of town, district
+Star	The modern world	The media	m	 star
+Stau	Home and abroad	Travel, transport and directions	m	 traffic jam
+Staubsauger	House, home and daily routine	Helping around the house	m	 vacuum cleaner
+Stelle	Education and employment	Work/careers	f	 job, post, position
+Stellenanzeige	Education and employment	Work/careers	f	 job advertisement
+Stereoanlage	House, home and daily routine	Types of home	f	 stereo system
+Stern	Home and abroad	Weather	m	 star
+Steward	Education and employment	Work/careers	m	 flight attendant
+Stewardess	Education and employment	Work/careers	f	 flight attendant
+Stich	Social activities, fitness and health	Accidents and health issues	m	 sting, bite
+Stift	Education and employment	School life and routine	m	 pen
+Stimme	House, home and daily routine	Self family and friends	f	 voice
+Stock	Home and abroad	Life in town and rural	m	 floor, storey
+Stock	House, home and daily routine	Types of home	m	 floor, storey
+Stockwerk	Home and abroad	Life in town and rural	n	 floor, storey
+Strand	Home and abroad	Holidays and tourist information	m	 beach
+Straße	Home and abroad	Life in town and rural	f	 road, street
+Straßenbahn	Home and abroad	Travel, transport and directions	f	 tram
+Streichholz	Home and abroad	Customs and religion	n	 match
+Stress	Social activities, fitness and health	Accidents and health issues	m	 stress
+Strumpfhose	Education and employment	School life and routine	f	 tights
+Strumpfhose	House, home and daily routine	Helping around the house	f	 tights
+Stück	House, home and daily routine	Food and drink	n	 piece
+Student	Education and employment	School life and routine	m	 student
+Studentin	Education and employment	School life and routine	f	 student
+Studium	Education and employment	School life and routine	n	 study, studies
+Stuhl	House, home and daily routine	Types of home	m	 chair
+Stunde	Education and employment	School life and routine	f	 lesson
+Stundenplan	Education and employment	School life and routine	m	 timetable
+Sturm	Home and abroad	Weather	m	 storm
+Süd	Home and abroad	Weather	m	 south
+Supermarkt	Social activities, fitness and health	Shopping and money matters	m	 supermarket
+Suppe	House, home and daily routine	Food and drink	f	 soup
+Süßigkeiten	House, home and daily routine	Food and drink	pl	 sweets
+Süßwarengeschäft	House, home and daily routine	Food and drink	n	 sweet shop
+Süßwarengeschäft	Social activities, fitness and health	Shopping and money matters	n	 sweet shop
+Sweatshirt	House, home and daily routine	Helping around the house	n	 sweatshirt
+T-Shirt	House, home and daily routine	Helping around the house	n	 T-shirt
+Tabak	Social activities, fitness and health	Accidents and health issues	m	 tobacco
+Tablette	Social activities, fitness and health	Accidents and health issues	f	 tablet
+Tafel	Education and employment	School life and routine	f	 board
+Tagesgericht	House, home and daily routine	Food and drink	n	 today’s special
+Tagesschau	The modern world	Current affairs and social issues	f	 television news
+Tankstelle	Home and abroad	Travel, transport and directions	f	 petrol station, service station
+Tante	House, home and daily routine	Self family and friends	f	 aunt
+Tasche	Education and employment	School life and routine	f	 bag, pocket
+Tasche	Home and abroad	Services	f	 bag
+Tasche	Social activities, fitness and health	Shopping and money matters	f	 bag
+Taschengeld	Social activities, fitness and health	Shopping and money matters	n	 pocket money
+Taschenlampe	Home and abroad	Holidays and tourist information	f	 torch
+Taschenrechner	Education and employment	School life and routine	m	 pocket calculator
+Taschentuch	Social activities, fitness and health	Accidents and health issues	n	 handkerchief
+Tasse	House, home and daily routine	Types of home	f	 cup
+Taxi	Home and abroad	Travel, transport and directions	n	 taxi
+Taxifahrer	Education and employment	Work/careers	m	 taxi driver
+Taxifahrin	Education and employment	Work/careers	f	 taxi driver
+Tee	House, home and daily routine	Food and drink	m	 tea
+Teil	Education and employment	School life and routine	m	 part
+Telefonat	Education and employment	Work/careers	n	 telephone call
+Telefonzelle	Home and abroad	Services	f	 telephone box
+Teller	House, home and daily routine	Helping around the house	m	 plate
+Temperatur	Home and abroad	Weather	f	 temperature
+Temperatur	Social activities, fitness and health	Accidents and health issues	f	 temperature
+Tennisplatz	Education and employment	School life and routine	m	 tennis court
+Teppich	House, home and daily routine	Types of home	m	 carpet
+Teppichboden	House, home and daily routine	Types of home	m	 fitted carpet, wall-to-wall carpeting
+Termin	Education and employment	Work/careers	m	 appointment
+Termin	Social activities, fitness and health	Accidents and health issues	m	 appointment
+Terrasse	House, home and daily routine	Types of home	f	 patio, terrace
+Textbuch	Education and employment	School life and routine	n	 text book
+Theaterstück	The modern world	The media	n	 play
+Thunfisch	House, home and daily routine	Food and drink	m	 tuna
+Tiefkühltruhe	House, home and daily routine	Types of home	f	 freezer
+Tier	Social activities, fitness and health	Special occasions	n	 animal
+Tierart	The modern world	Environmental issues	f	 animal species
+Tiergarten	Social activities, fitness and health	Special occasions	m	 zoo
+Tischdecke	House, home and daily routine	Helping around the house	f	 tablecloth
+Tischdecke	Social activities, fitness and health	Special occasions	f	 table cloth
+Toast	House, home and daily routine	Food and drink	m	 toast
+Tochter	House, home and daily routine	Self family and friends	f	 daughter
+Tod	Home and abroad	Customs and religion	m	 death
+Toilette	House, home and daily routine	Types of home	f	 toilet
+Tomate	House, home and daily routine	Food and drink	f	 tomato
+Topf	House, home and daily routine	Helping around the house	m	 saucepan, pot
+Tornado	The modern world	Environmental issues	m	 tornado
+Torte	House, home and daily routine	Food and drink	f	 gateau, flan
+Tourist	Home and abroad	Holidays and tourist information	m	 tourist
+Touristenbüro	Home and abroad	Holidays and tourist information	n	 tourist office
+Touristin	Home and abroad	Holidays and tourist information	f	 tourist
+Trainingsanzug	Education and employment	School life and routine	m	 tracksuit
+Trainingsanzug	House, home and daily routine	Helping around the house	m	 tracksuit
+Traube	House, home and daily routine	Food and drink	f	 grape
+Treibhauseffekt	The modern world	Environmental issues	m	 greenhouse effect
+Treppe	House, home and daily routine	Types of home	f	 stairs
+Trickfilm	The modern world	The media	m	 cartoon
+Trommel	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 drum
+Trompete	Social activities, fitness and health	Hobbies, interests, sports and exercise	f	 trumpet
+Tür	Home and abroad	Travel, transport and directions	f	 door
+Tür	House, home and daily routine	Types of home	f	 door
+Turm	Home and abroad	Life in town and rural	m	 tower
+Turnen	Education and employment	School life and routine	n	 PE
+Turnen	Social activities, fitness and health	Hobbies, interests, sports and exercise	n	 gymnastics
+Turnhalle	Education and employment	School life and routine	f	 gym
+U-Bahn	Home and abroad	Life in town and rural	f	 underground, tube
+Überschwemmung	The modern world	Environmental issues	f	 flood
+Übung	Social activities, fitness and health	Accidents and health issues	f	 exercise
+Uhr	House, home and daily routine	Helping around the house	f	 watch, clock
+Umkleideraum	Education and employment	School life and routine	m	 changing room
+Umwelt	The modern world	Environmental issues	f	 environment
+Unfall	Home and abroad	Travel, transport and directions	m	 accident
+Unfall	Social activities, fitness and health	Accidents and health issues	m	 accident
+Universität	Education and employment	Future plans	f	 university
+Unterkunft	Home and abroad	Holidays and tourist information	f	 accommodation
+Unterricht	Education and employment	School life and routine	m	 lesson
+Untersuchung	Social activities, fitness and health	Accidents and health issues	f	 examination
+Urlaub	Home and abroad	Holidays and tourist information	m	 holiday
+Valentinstag	Home and abroad	Customs and religion	m	 Valentine’s Day
+Vater	House, home and daily routine	Self family and friends	m	 father
+Vati	House, home and daily routine	Self family and friends	m	 dad
+Vegetarier	House, home and daily routine	Food and drink	m	 vegetarian
+Vegetarier	Social activities, fitness and health	Accidents and health issues	m	 vegetarian
+Vegetarin	House, home and daily routine	Food and drink	f	 vegetarian
+Vegetarin	Social activities, fitness and health	Accidents and health issues	f	 vegetarian
+Verabredung	Education and employment	Work/careers	f	 appointment
+Verkäufer	Education and employment	Work/careers	m	 sales, shop assistant
+Verkäufer	Social activities, fitness and health	Shopping and money matters	m	 sales assistant, shopkeeper
+Verkäufin	Education and employment	Work/careers	f	 sales, shop assistant
+Verkäufin	Social activities, fitness and health	Shopping and money matters	f	 sales assistant, shopkeeper
+Verkehr	Home and abroad	Life in town and rural	m	 traffic
+Verkehr	The modern world	Environmental issues	m	 traffic
+Verkehrsampel	Home and abroad	Life in town and rural	f	 traffic light
+Verkehrsamt	Home and abroad	Holidays and tourist information	n	 tourist office
+Verkehrsmittel	Home and abroad	Travel, transport and directions	n	 means of transport
+Verkehrsstau	The modern world	Environmental issues	m	 traffic jam
+Verlobte	Social activities, fitness and health	Special occasions	m/f	 fiancé
+Verlobung	Social activities, fitness and health	Special occasions	f	 engagement
+Verlust	Home and abroad	Services	m	 loss
+Verspätung	Home and abroad	Travel, transport and directions	f	 delay
+Verwandte	House, home and daily routine	Self family and friends	pl	 relatives
+Verwandtschaft	House, home and daily routine	Self family and friends	f	 relations, relatives
+Viertel	Home and abroad	Life in town and rural	n	 district, quarter
+Vollpension	Home and abroad	Holidays and tourist information	f	 full board
+Vorbereitungen	Home and abroad	Customs and religion	pl	 preparations
+Vorfahrt	Home and abroad	Travel, transport and directions	f	 right of way, priority
+Vorhang	House, home and daily routine	Types of home	m	 curtain
+Vorname	Home and abroad	Services	m	 first name
+Vorname	House, home and daily routine	Self family and friends	m	 first name
+Vorort	Home and abroad	Life in town and rural	m	 suburb
+Vorspeise	House, home and daily routine	Food and drink	f	 starter
+Vorstadt	Home and abroad	Life in town and rural	f	 suburb(s)
+Vorstellung	Social activities, fitness and health	Special occasions	f	 show, performance
+Vorstellung	The modern world	The media	f	 performance, showing
+Vorstellungsgespräch	Education and employment	Future plans	n	 interview
+Waffel	House, home and daily routine	Food and drink	f	 waffle
+Wagen	Home and abroad	Travel, transport and directions	m	 car
+Waldbrand	The modern world	Environmental issues	m	forest fire
+Wand	House, home and daily routine	Types of home	f	 wall (inside, internal)
+Warenhaus	Social activities, fitness and health	Shopping and money matters	n	 department store
+Warteraum	Home and abroad	Travel, transport and directions	m	 waiting room
+Wartesaal	Home and abroad	Travel, transport and directions	m	 waiting room
+Waschbecken	House, home and daily routine	Types of home	n	 washbasin
+Waschmaschine	House, home and daily routine	Types of home	f	 washing machine
+Wasser	House, home and daily routine	Food and drink	n	 water
+Wasserhahn	House, home and daily routine	Types of home	m	 tap
+Wasserpark	Social activities, fitness and health	Special occasions	m	 water park
+Wasserski	Home and abroad	Holidays and tourist information	m	 waterskiing
+Wechsel	Home and abroad	Holidays and tourist information	m	 change
+Wechselstube	Home and abroad	Services	f	 bureau de change
+Wechselstube	Social activities, fitness and health	Shopping and money matters	f	 bureau de change
+Wecker	House, home and daily routine	Helping around the house	m	 alarm clock
+Weihnachten	Home and abroad	Customs and religion	n	 Christmas
+Weihnachtsbaum	Home and abroad	Customs and religion	m	 Christmas tree
+Weihnachtsmann	Home and abroad	Customs and religion	m	 Father Christmas
+Wein	House, home and daily routine	Food and drink	m	 wine
+Weißes Haus	The modern world	Current affairs and social issues	n	 White House
+Weißwein	House, home and daily routine	Food and drink	m	 white wine
+Welle	The modern world	Environmental issues	f	 wave
+Welt	The modern world	Environmental issues	f	 world
+Weltraum	The modern world	Current affairs and social issues	m	 space
+Werbespot	The modern world	The media	m	 advertisement, advert
+Werbung	Education and employment	Work/careers	f	 advertisement, advertising
+West	Home and abroad	Weather	m	 west
+Wetter	Home and abroad	Weather	n	 weather
+Wetterbericht	Home and abroad	Weather	m	 weather report
+Wettervorhersage	Home and abroad	Weather	f	 weather forecast
+Willkommen	Social activities, fitness and health	Special occasions	n	 welcome
+Wind	Home and abroad	Weather	m	 wind
+Windsurfbrett	Home and abroad	Holidays and tourist information	n	 windsurfing board
+Wohnung	House, home and daily routine	Types of home	f	 flat
+Wohnzimmer	House, home and daily routine	Types of home	n	 sitting room, living room
+Wolke	Home and abroad	Weather	f	 cloud
+Wort	Education and employment	School life and routine	n	 word
+Wörterbuch	Education and employment	School life and routine	n	 dictionary
+Wurst	House, home and daily routine	Food and drink	f	 sausage
+Würstchen	House, home and daily routine	Food and drink	n	 little sausage, frankfurter sausage, hot dog
+Zahn	Social activities, fitness and health	Accidents and health issues	m	 tooth
+Zahnarzt	Education and employment	Work/careers	m	 dentist
+Zahnärztin	Education and employment	Work/careers	f	 dentist
+Zahnbürste	House, home and daily routine	Helping around the house	f	 toothbrush
+Zahnschmerzen	Social activities, fitness and health	Accidents and health issues	pl	 toothache
+Zehe	Social activities, fitness and health	Accidents and health issues	f	 toe
+Zeitraum	Home and abroad	Holidays and tourist information	m	 period (of time)
+Zeitung	The modern world	The media	f	 newspaper
+Zeitungskiosk	Home and abroad	Life in town and rural	m	 newspaper kiosk/stand
+Zelt	Home and abroad	Holidays and tourist information	n	 tent
+Zeremonie	Social activities, fitness and health	Special occasions	f	 ceremony
+Zeugnis	Education and employment	School life and routine	n	 report
+Zigarette	Social activities, fitness and health	Accidents and health issues	f	 cigarette
+Zimmer	House, home and daily routine	Types of home	n	 room
+Zirkus	Social activities, fitness and health	Special occasions	m	 circus
+Zitrone	House, home and daily routine	Food and drink	f	 lemon
+Zoll	Home and abroad	Travel, transport and directions	m	 customs
+Zoo	Social activities, fitness and health	Special occasions	m	 zoo
+Zoowärter	Social activities, fitness and health	Special occasions	m	 zoo keeper
+Zoowärtin	Social activities, fitness and health	Special occasions	f	 zoo keeper
+Zucker	House, home and daily routine	Food and drink	m	 sugar
+Zug	Home and abroad	Travel, transport and directions	m	 train
+Zukunft	Education and employment	Future plans	f	 future
+Zunge	Social activities, fitness and health	Accidents and health issues	f	 tongue
+Zwiebel	House, home and daily routine	Food and drink	f	 onion
+Zwilling	House, home and daily routine	Self family and friends	m	 twin
