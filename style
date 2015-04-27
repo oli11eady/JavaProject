@@ -27,7 +27,7 @@
 #content {
     background-color: rgb(245,245,245);
     padding-top: 20px;
-
+    padding-bottom: 5px;
     border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
@@ -143,4 +143,29 @@ h1 {
     font-size: 25px;
     border-radius: 5px;
     background: linear-gradient(rgb(64,160,192), rgb(90,186,218), rgb(64,160,192));
+}
+
+#back {
+    margin-left: 34%;
+    margin-right: 34%;
+    padding: 20px 50px 20px 50px;
+    margin-top: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(64,160,192), rgb(90,186,218), rgb(64,160,192));
+    color: white;
+}
+
+#back a{
+    color: white;
+    margin-left: 34%;
+    margin-right: 34%;
+    display: inline-block;
+}
+
+h3 {
+    margin-left: 38%;
+    margin-right: 38%;
+    font-size: 14px;
+    width: 70%
 }
