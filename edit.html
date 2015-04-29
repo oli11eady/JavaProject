@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="style.css">
+    <title>
+        Improve your German
+    </title>
+    <body>   
+        <div id="header">
+            <div id="menu">
+                    <ul>
+                        <li><a href="#welcome">Home</a></li>
+                        <li><a href="#test">Test</a></li>
+                        <li><a href="#grades">Grades</a></li>
+                        <li><a href="#adddrop">Admin</a></li>
+                    </ul>
+            </div>
+        </div>
+        <div id="container">
+            <div id="inner"> 
+                <div id="content">
+                    <div id="login">
+                    <h1>Enter the entry you wish to edit.</h1>
+                    <form method="post" action="editServlet">
+                        <a>German: </a>
+                        <input type="text" name="german" value=""></input>
+                        <a><br></br>English: </a>
+                        <input type="text" name="english" value=""></input>
+                        <a><br></br>Catagory: </a>
+                        <select name="category">
+                            <option value="HNA">Home and Abroad</option>
+                            <option value="ENE">Education and Employment</option>
+                            <option value="HHADR">House, Home and Daily Routine</option>
+                            <option value="TMW">The Modern World</option>
+                            <option value="SAFH">Social Activities, Fitness and Health</option>
+                            <option value="NSV">Non-Specific Vocabulary</option>
+                        </select>
+                        <a><br></br>Sub-Catagory: </a>
+                        <input type="text" name="sub" value=""></input>
+                        <a><br></br>Gender: </a>
+                        <select name="gender">
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                        </select>
+                        <br></br>
+                        <a>New German: </a>
+                        <input type="text" name="newGerman" value=""></input>
+                        <a><br></br>New English: </a>
+                        <input type="text" name="newEnglish" value=""></input>
+                        <a><br></br>New Catagory: </a>
+                        <select name="newCategory">
+                            <option value="newHNA">Home and Abroad</option>
+                            <option value="newENE">Education and Employment</option>
+                            <option value="newHHADR">House, Home and Daily Routine</option>
+                            <option value="newTMW">The Modern World</option>
+                            <option value="newSAFH">Social Activities, Fitness and Health</option>
+                            <option value="newNSV">Non-Specific Vocabulary</option>
+                        </select>
+                        <a><br></br>New Sub-Catagory: </a>
+                        <input type="Text" name="newSub" value=""></input>
+                        <a><br></br>New Gender: </a>
+                        <select name="newGender">
+                            <option value="newMale">Male</option>
+                            <option value="newFemale">Female</option>
+                        </select>
+                        <br></br>
+                        <input type="submit" name="submit" value="SUBMIT"></input>
+                    </form>
+                    </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
