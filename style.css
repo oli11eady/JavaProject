@@ -169,3 +169,71 @@ h3 {
     font-size: 14px;
     width: 70%
 }
+
+#loginb {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 70%;
+    padding-bottom: 20px;
+}
+
+#adminp {
+    margin-left: 41%;
+    margin-right: 41%;
+    font-size: 14px;
+    width: 70%
+}
+
+#dropb {
+    margin-left: 34%;
+    margin-right: 34%;
+    padding: 20px 50px 20px 50px;
+    margin-top: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(64,160,192), rgb(90,186,218), rgb(64,160,192));
+    color: white;
+}
+
+#dropb a{
+    color: white;
+    margin-left: 34%;
+    margin-right: 34%;
+    display: inline-block;
+}
+
+#addb {
+    margin-left: 34%;
+    margin-right: 34%;
+    padding: 20px 50px 20px 50px;
+    margin-top: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(64,160,192), rgb(90,186,218), rgb(64,160,192));
+    color: white;
+}
+
+#addb a{
+    color: white;
+    margin-left: 34%;
+    margin-right: 34%;
+    display: inline-block;
+}
+
+#editb {
+    margin-left: 34%;
+    margin-right: 34%;
+    padding: 20px 50px 20px 50px;
+    margin-top: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(64,160,192), rgb(90,186,218), rgb(64,160,192));
+    color: white;
+}
+
+#editb a{
+    color: white;
+    margin-left: 34%;
+    margin-right: 34%;
+    display: inline-block;
+}
